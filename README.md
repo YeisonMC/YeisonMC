@@ -17,10 +17,10 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
    
     <h2>Base de datos</h2>
-    <img height="50" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">
    
     <h2>Cloud Computing</h2>
-
+    <img src="https://skillicons.dev/icons?i=gcp,azure">
 </div>
 
 
