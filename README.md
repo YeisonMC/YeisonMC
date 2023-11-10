@@ -20,7 +20,7 @@
     
     <h2>🎁Cloud Computing</h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=gcp,azure"/>
+      <img src="https://skillicons.dev/icons?i=azure,gcp"/>
     </a>
 
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
