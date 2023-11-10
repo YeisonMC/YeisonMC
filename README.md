@@ -1,4 +1,3 @@
-  <h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=EDCE3B&random=false&width=435&lines=Hola%2C+soy+Yeissen" alt="Typing SVG" </a>
   
 <div>
@@ -18,10 +17,7 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
    
    <h2>Base de datos</h2>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"> </code>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> </code>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> </code>
+<img height="50" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">
    
    <h2>Cloud Computing</h2>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> </code>
