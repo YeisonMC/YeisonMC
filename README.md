@@ -2,6 +2,8 @@
 
 <div>
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+  <h2>Lenguajes de programacion</h2>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
 
