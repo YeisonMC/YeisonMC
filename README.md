@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=EDCE3B&random=false&width=435&lines=Hola%2C+soy+Yeissen" alt="Typing SVG" /></a>
-  
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=EDCE3B&random=false&width=435&lines=Hola%2C+soy+Yeissen" alt="Typing SVG" /></a>
+  <hr>
 <div>
  <img align="right" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
  
@@ -17,7 +17,12 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
    
     <h2>Base de datos</h2>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">
+    <p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">  
+      </a>
+    </p>
+  
    
     <h2>Cloud Computing</h2>
     <img src="https://skillicons.dev/icons?i=gcp,azure">
