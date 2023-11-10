@@ -14,6 +14,8 @@
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+<h2>Base de datos</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 </div>
 
 
