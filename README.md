@@ -10,7 +10,11 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code> 
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code> 
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>  
-   
+
+   <h2>🎁Base de datos</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+    </a>
 
    <h2>🎁Backend</h2>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
@@ -18,11 +22,6 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-
-    <h2>🎁Base de datos</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-    </a>
 </div>
 
 
