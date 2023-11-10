@@ -4,6 +4,7 @@
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
   <h2>Lenguajes de programacion</h2>
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="">
 </div>
 
 
