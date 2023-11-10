@@ -13,12 +13,16 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code> 
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>  
    
-   <h2>🎁Backend</h2>
-   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+   <h2>🎁Base de datos</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+    </a>
+    
+    <h2>🎁Cloud Computing</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=gcp,azure"/>
+    </a>
+
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
