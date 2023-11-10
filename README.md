@@ -20,7 +20,7 @@
     <img height="50" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">
    
     <h2>Cloud Computing</h2>
-    <img height="50" src="https://skillicons.dev/icons?i=gcp,azure">
+
 </div>
 
 
