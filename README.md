@@ -3,6 +3,7 @@
 </div>
 
 https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
+<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
 
 <div>
  <img align="right" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
