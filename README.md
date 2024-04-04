@@ -3,8 +3,8 @@
 </div>
 
 
-<div>
- <img align="right" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
+
+
  
    <h2>🎁Frontend</h2>
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react">
@@ -24,6 +24,6 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-</div>
 
+ <img align="right" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
 
