@@ -12,10 +12,6 @@
     <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
     
 
-    <div display="flex">
-      <h2>🎁Base de datos</h2>   
-      <h2>🎁Base de datos</h2>
-      </div>
    <h2>🎁Base de datos</h2>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
@@ -28,5 +24,5 @@
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
 
- <img align="right" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
+ <img align="center" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
 
