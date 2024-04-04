@@ -3,13 +3,14 @@
 </div>
 
 https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
 
 <div>
  <img align="right" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
  
    <h2>🎁Frontend</h2>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code> 
+ <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="html5">
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code> 
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code> 
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>  
