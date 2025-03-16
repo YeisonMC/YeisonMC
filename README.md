@@ -3,12 +3,12 @@
 <!-- IMAGEN A LA DERECHA POR SI QUIERO -->
 <!--  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 
-***<h3>🚀 Sobre mí</h3>**
+***<h3>🚀 Sobre mí</h3>***
 Me considero una persona autodidacta que busca estar aprendiendo constantemente. Busco nuevas oportunidades en el mercado TI que me permitan no solo aportar mi conocimiento y habilidades, sino también crecer profesional y personalmente.
  
 <!-- **Actualmente trabajando en**: Soporte IT y desarrollo de proyectos personales.   -->
 
-***<h3>🚀 My Skills</h3>**
+***<h3>🚀 My Skills</h3>***
 
 
  
