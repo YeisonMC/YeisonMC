@@ -2,6 +2,7 @@
 
 <!-- IMAGEN A LA DERECHA POR SI QUIERO -->
 <!--  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
+<img align="right" width=300px alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d" /> 
 
 ***<h3>🚀 Sobre mí</h3>***
 Me considero una persona autodidacta que busca estar aprendiendo constantemente. Busco nuevas oportunidades en el mercado TI que me permitan no solo aportar mi conocimiento y habilidades, sino también crecer profesional y personalmente.
@@ -13,5 +14,5 @@ Me considero una persona autodidacta que busca estar aprendiendo constantemente.
 
  
 
- <img align="center" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">
+<!--  <img align="center" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">--> 
 
