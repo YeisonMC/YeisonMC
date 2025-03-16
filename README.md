@@ -3,7 +3,7 @@
 <!-- IMAGEN A LA DERECHA POR SI QUIERO -->
 <!--  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 
-***🚀 Sobre mí***
+***🚀 <h2>Sobre mí</h2>***
 
 **Actualmente trabajando en**: Soporte IT y desarrollo de proyectos personales.  
 
