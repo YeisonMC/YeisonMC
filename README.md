@@ -41,7 +41,14 @@ Me considero una persona autodidacta que busca estar aprendiendo constantemente.
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </span>
- 
 
-<!--  <img align="center" width="400" alt="BOCCHI" src="https://c.wallhere.com/photos/d9/3f/BOCCHI_THE_ROCK_Hitori_Bocchi_guitar_forest_vertical_pink_hair-2209797.jpg!d">--> 
-
+***<h3>🚀 Mis redes </h3>***
+<a href= "https://www.linkedin.com/in/yeissen-beckam-macalupu-marchan/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-">
+</a>
+<a href= "https://www.instagram.com/yeissen.dev?igsh=YnUzZGU1emZlbnhm">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href= "">
+ <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
