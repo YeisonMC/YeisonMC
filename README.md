@@ -42,7 +42,7 @@ Me considero una persona autodidacta que busca estar aprendiendo constantemente.
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </span>
 
-***<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Mis redes </h3>***
+***<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="margin-right: 10px;">Mis redes </h3>***
 <a href= "https://www.linkedin.com/in/yeissen-beckam-macalupu-marchan/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-">
 </a>
