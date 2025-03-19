@@ -54,5 +54,5 @@ Me considero una persona autodidacta que busca estar aprendiendo constantemente.
 </a>
 
 ***<h3>🚀 GitHub Status </h3>***
-[![](https://github-readme-stats.vercel.app/api?username=YeisonMC&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/YeisonMC)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=YeisonMC&theme=material-palenight)](https://github.com/YeisonMC)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeisonMC&show_icons=true&theme=tokyonight) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeisonMC&show_icons=true&theme=onedark&text_color=A9725C&icon_color=ffffff)
